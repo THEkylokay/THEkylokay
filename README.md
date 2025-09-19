@@ -11,8 +11,8 @@
 
 <!-- Badges -->
 <p align="center">
-  <a href="https://github.com/toncompte">
-    <img src="https://komarev.com/ghpvc/?username=toncompte&label=Vues%20du%20profil&color=9f5fff&style=flat" alt="profile views" />
+  <a href="https://github.com/THEkylokay">
+    <img src="https://komarev.com/ghpvc/?username=THEkylokay&label=Vues%20du%20profil&color=9f5fff&style=flat" alt="profile views" />
   </a>
   <a href="mailto:tonemail@example.com">
     <img src="https://img.shields.io/badge/Email-me-blue?style=flat&logo=gmail" alt="email" />
@@ -20,7 +20,7 @@
   <a href="https://linkedin.com/in/tonprofil">
     <img src="https://img.shields.io/badge/LinkedIn-Profil-0077B5?style=flat&logo=linkedin" alt="linkedin" />
   </a>
-  <a href="https://github.com/toncompte?tab=repositories">
+  <a href="https://github.com/THEkylokay?tab=repositories">
     <img src="https://img.shields.io/badge/Projets-voir%20tout-orange?style=flat&logo=github" alt="repos" />
   </a>
 </p>
@@ -77,8 +77,8 @@
 ## 📊 Stats GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=toncompte&show_icons=true&theme=tokyonight&hide_title=true" height="170px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=toncompte&layout=compact&theme=tokyonight" height="170px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=THEkylokay&show_icons=true&theme=tokyonight&hide_title=true" height="170px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=THEkylokay&layout=compact&theme=tokyonight" height="170px"/>
 </p>
 
 ---
@@ -87,7 +87,7 @@
 ## 🏆 Trophées
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=toncompte&theme=gruvbox&margin-w=10&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=THEkylokay&theme=gruvbox&margin-w=10&row=1" />
 </p>
 
 ---
@@ -96,7 +96,7 @@
 ## 🔥 Contribution
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=toncompte&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=THEkylokay&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
 </p>
 
 ---
