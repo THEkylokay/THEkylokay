@@ -50,28 +50,28 @@ Want to know more about me?
     <th align="center" style="width:25%;">🧪 Tools & DevOps</th>
   </tr>
   <tr>
-    <td align="center" style="width:25%;">
-      <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3" /><br>
-      <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" /><br>
-      <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript" /><br>
-      <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python" /><br>
-      <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php" /><br>
+    <td align="center" style="width:25%; padding:5px 8px;">
+      <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" />&nbsp;
+      <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3" />&nbsp;
+      <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />&nbsp;
+      <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript" />&nbsp;
+      <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python" />&nbsp;
+      <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php" />&nbsp;
       <img src="https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white" />
     </td>
-    <td align="center" style="width:25%;">
-      <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react" /><br>
-      <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js" /><br>
+    <td align="center" style="width:25%; padding:5px 8px;">
+      <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react" />&nbsp;
+      <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js" />&nbsp;
       <img src="https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express" />
     </td>
-    <td align="center" style="width:25%;">
-      <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql" /><br>
-      <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql" /><br>
+    <td align="center" style="width:25%; padding:5px 8px;">
+      <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql" />&nbsp;
+      <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql" />&nbsp;
       <img src="https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white" />
     </td>
-    <td align="center" style="width:25%;">
-      <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git" /><br>
-      <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker" /><br>
+    <td align="center" style="width:25%; padding:5px 8px;">
+      <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git" />&nbsp;
+      <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker" />&nbsp;
       <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code" />
     </td>
   </tr>
