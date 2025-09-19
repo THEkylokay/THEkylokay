@@ -56,13 +56,10 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)
 ![Express](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js)
-![Laravel](https://img.shields.io/badge/-Laravel-F9322C?style=flat&logo=laravel)
 
 ### 🛢️ Base de données
 
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql)
 
 ### 🧪 Outils & DevOps
@@ -70,7 +67,6 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma)
 
 ---
 
@@ -84,20 +80,20 @@
 
 ---
 
-<!-- Trophies (optionnel) -->
-## 🏆 Trophées
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=THEkylokay&theme=gruvbox&margin-w=10&row=1" />
-</p>
-
----
-
 <!-- GitHub Streak -->
 ## 🔥 Contribution
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=THEkylokay&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
+</p>
+
+---
+
+<!-- Trophies (optionnel) -->
+## 🏆 Trophées
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=THEkylokay&theme=gruvbox&margin-w=10&row=1" />
 </p>
 
 ---
