@@ -83,7 +83,9 @@ Want to know more about me?
 ## 🔥 Contributions
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=THEkylokay&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
+[  <img src="https://streak-stats.demolab.com?user=THEkylokay&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
+](https://streak-stats.demolab.com?user=THEkylokay&theme=tokyonight&hide_border=true&border_radius=10
+)
 </p>
 
 ---
