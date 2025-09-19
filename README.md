@@ -4,7 +4,7 @@
 </p>
 
 <!-- Introduction -->
-<h1 align="center">Hi 👋, I'm <span style="color:#9f5fff">[Your Name / Pseudo]</span></h1>
+<h1 align="center">Hi 👋, I'm <span style="color:#9f5fff">Kylokay</span></h1>
 <h3 align="center">Passionate developer, curious creator, and clean code enthusiast.</h3>
 
 ---
@@ -14,10 +14,10 @@
   <a href="https://github.com/THEkylokay">
     <img src="https://komarev.com/ghpvc/?username=THEkylokay&label=Profile%20Views&color=9f5fff&style=flat" alt="profile views" />
   </a>
-  <a href="mailto:tonemail@example.com">
+  <a href="mailto:arthur.bramas@gmail.com">
     <img src="https://img.shields.io/badge/Email-me-blue?style=flat&logo=gmail" alt="email" />
   </a>
-  <a href="https://linkedin.com/in/tonprofil">
+  <a href="https://linkedin.com/in/arthur-bramas-96906b290">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=flat&logo=linkedin" alt="linkedin" />
   </a>
   <a href="https://github.com/THEkylokay?tab=repositories">
