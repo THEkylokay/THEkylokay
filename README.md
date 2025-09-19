@@ -1,10 +1,5 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,100:9f5fff&height=200&section=header&text=Bienvenue%20sur%20mon%20GitHub!&fontSize=40&fontColor=ffffff&animation=fadeIn" alt="banner" />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=200&section=header&text=Hello%20World!&fontSize=40&fontColor=ffffff&animation=fadeIn" />
-  <img src="https://capsule-render.vercel.app/api?type=mountain&color=auto&height=200&section=header&text=My%20GitHub%20Profile&fontSize=40&fontColor=ffffff" />
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=ff0080&height=150&section=header&text=Welcome!&fontSize=40&fontColor=ffffff" />
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:ff9a9e,100:fad0c4&height=200&section=header&text=Explore%20my%20Projects&fontSize=35&fontColor=333" />
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4b0082,100:8a2be2&height=200&section=header&text=Welcome%20to%20my%20Universe&fontSize=38&fontColor=00ffff&animation=fadeIn" />
 
 
