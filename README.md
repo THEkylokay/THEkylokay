@@ -30,11 +30,12 @@
 <!-- About Me -->
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Your Project Name]**
-- 🌱 I’m currently learning **[tech/language/framework]**
-- 👯 I’m looking to collaborate on **open-source / fullstack / AI projects**
-- 💬 Ask me about **[topics you’re confident with]**
-- ⚡ Fun fact: *[fun or personal fact]*
+I'm a computer science student with a strong interest in self-learning.  
+I explore different tools, languages, and technologies as I go — no strict roadmap, just passion and experimentation.  
+GitHub is where I share things I build or experiment with, and where I discover cool projects from others.
+
+Want to know more about me?  
+📎 Check out my other profiles
 
 ---
 
