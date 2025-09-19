@@ -111,3 +111,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9f5fff,100:6e40c9&height=120&section=footer"/>
 </p>
+
+
+© 2025 Ton Nom ou Ton Pseudo. Tous droits réservés.
+
