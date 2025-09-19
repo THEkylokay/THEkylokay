@@ -113,5 +113,5 @@
 </p>
 
 
-© 2025 Ton Nom ou Ton Pseudo. Tous droits réservés.
+© 2025 THEkylokay. All rights reserved.
 
