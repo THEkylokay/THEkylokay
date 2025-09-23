@@ -110,9 +110,8 @@ Want to know more about me?
 <!-- Contact -->
 ## 📫 Contact Me
 
-- 💼 [LinkedIn](https://linkedin.com/in/tonprofil)
-- 📧 Email: tonemail@example.com
-- 🌐 [Portfolio](https://tonsiteperso.com)
+- 📧 Email: arthur.bramas@gmail.com
+- 🌐 [Portfolio](https://v0-le-portfolio.vercel.app/)
 
 ---
 
