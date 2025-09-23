@@ -111,7 +111,7 @@ Want to know more about me?
 ## 📫 Contact Me
 
 - 📧 Email: arthur.bramas@gmail.com
-- 🌐 [Portfolio](https://v0-le-portfolio.vercel.app/)
+- 🌐 Portfolio: (https://v0-le-portfolio.vercel.app/)
 
 ---
 
