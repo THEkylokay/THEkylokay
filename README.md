@@ -5,7 +5,7 @@
 
 <!-- Introduction -->
 <h1 align="center">Hi 👋, I'm <span style="color:#9f5fff">Kylokay</span></h1>
-<h3 align="center">Passionate developer, curious creator, and clean code enthusiast.</h3>
+<h3 align="center">Passionate developer, curious creator, and full-time “why is this not working?” researcher.</h3>
 
 ---
 
@@ -33,9 +33,6 @@
 I'm a computer science student with a strong interest in self-learning.  
 I explore different tools, languages, and technologies as I go — no strict roadmap, just passion and experimentation.  
 GitHub is where I share things I build or experiment with, and where I discover cool projects from others.
-
-Want to know more about me?  
-📎 Check out my other profiles
 
 ---
 
@@ -83,7 +80,7 @@ Want to know more about me?
 ## 🔥 Contributions
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=THEkylokay&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
+  ![Total Contributions](https://img.shields.io/badge/Contributions%20totales-253-green?style=for-the-badge)
 </p>
 
 ---
