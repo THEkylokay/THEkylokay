@@ -80,7 +80,7 @@ GitHub is where I share things I build or experiment with, and where I discover 
 ## 🔥 Contributions
 
 <p align="center">
-  ![Total Contributions](https://img.shields.io/badge/Contributions%20totales-253-green?style=for-the-badge)
+  ![Total Contributions] <img src="https://img.shields.io/badge/Contributions%20totales-253-green?style=for-the-badge" />
 </p>
 
 ---
