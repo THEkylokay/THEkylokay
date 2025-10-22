@@ -77,7 +77,7 @@ GitHub is where I share things I build or experiment with, and where I discover 
 ---
 
 <!-- GitHub Streak -->
-## 🔥 Contributions
+## 🔥 Public contributions
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=THEkylokay&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
